@@ -1,0 +1,14 @@
+{
+  "name": "earn-pakistan-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "pino": "^8.14.1",
+    "node-cron": "^3.0.2"
+  }
+}
